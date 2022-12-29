@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chinawarecraft",
+  "name": "Chinaware Craft",
+  "description": "Simple chinaware make.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "None",
+  "updateUrl": "",
+  "authorList": ["LinZishen"],
+  "credits": "Idealland - they provided this framework.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

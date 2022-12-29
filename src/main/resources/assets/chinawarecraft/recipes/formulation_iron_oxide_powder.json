@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "chinawarecraft:iron_oxide_powder",
+    "count": 2
+  },
+  "ingredients": [
+    [
+      { "item": "chinawarecraft:hematite_ore" }
+    ]
+  ],
+  "type": "forge:ore_shapeless"
+}

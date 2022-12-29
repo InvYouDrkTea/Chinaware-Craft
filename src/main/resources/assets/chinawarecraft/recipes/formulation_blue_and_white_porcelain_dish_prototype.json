@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "111",
+    "101",
+    "111"
+  ],
+
+  "key":
+  {
+    "0":
+    {
+      "item": "chinawarecraft:white_dish_prototype"
+    },
+    "1":
+    {
+      "item": "chinawarecraft:cobalt_powder"
+    }
+  },
+
+  "result":
+  {
+    "item": "chinawarecraft:blue_and_white_porcelain_dish_prototype",
+    "count": 1
+  }
+}

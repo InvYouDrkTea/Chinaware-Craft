@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "chinawarecraft:celadon_clay_ball"
+  },
+  "ingredients": [
+    [
+      { "item": "chinawarecraft:white_porcelain_clay_ball" }
+    ],
+    [
+      { "item": "chinawarecraft:iron_oxide_powder" }
+    ]
+  ],
+  "type": "forge:ore_shapeless"
+}

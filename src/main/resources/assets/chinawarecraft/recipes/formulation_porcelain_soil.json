@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "chinawarecraft:porcelain_soil",
+    "count": 2
+  },
+  "ingredients": [
+    [
+      { "item": "chinawarecraft:kaolinite_soil" }
+    ]
+  ],
+  "type": "forge:ore_shapeless"
+}

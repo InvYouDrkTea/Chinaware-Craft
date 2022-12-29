@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "   ",
+    "0 0",
+    " 0 "
+  ],
+
+  "key":
+  {
+    "0":
+    {
+      "item": "chinawarecraft:celadon_clay_ball"
+    }
+  },
+
+  "result":
+  {
+    "item": "chinawarecraft:celadon_dish_prototype",
+    "count": 1
+  }
+}
