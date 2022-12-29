@@ -4,8 +4,7 @@
 https://www.bilibili.com/video/BV1Ar4y1K7Qk
 See the video tutorial in the link above (vocal in Chinese).
 
-目录已经完成理想境框架环境部署，因此不需要setupDecomp，你只需检查你的JDK是否是64位的，环境变量"JAVA_HOME"是否指向JDK的安装路径
-另外提醒目录使用的是理想境新版本框架，上述视频比较老，请使用2022.x.x或更高版本的IDEA
+请根据上述视频自行部署环境！
 
 -------------------------------------------
 Source installation information for modders
