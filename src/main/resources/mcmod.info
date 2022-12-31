@@ -5,7 +5,7 @@
   "description": "Simple chinaware make.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "None",
+  "url": "https://www.mcmod.cn/class/8589.html",
   "updateUrl": "",
   "authorList": ["LinZishen"],
   "credits": "Idealland - they provided this framework.",

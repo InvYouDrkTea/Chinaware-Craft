@@ -32,7 +32,7 @@ import org.apache.logging.log4j.Logger;
 public class IdlFramework {
     public static final String MODID = "chinawarecraft";
     public static final String NAME = "Chinaware Craft";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "1.0.1";
 
     public static Logger logger;
 

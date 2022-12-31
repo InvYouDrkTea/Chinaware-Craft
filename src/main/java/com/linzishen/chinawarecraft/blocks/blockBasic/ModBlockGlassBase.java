@@ -29,15 +29,6 @@ public class ModBlockGlassBase extends BlockBase {
         return false;
     }
 
-    /*
-    ISFULLBLOCK!
-    */
-    @Override
-    public boolean isFullBlock(IBlockState state)
-    {
-        return false;
-    }
-
     protected boolean canSilkHarvest()
     {
         return true;
