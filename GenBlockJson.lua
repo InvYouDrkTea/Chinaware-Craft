@@ -59,7 +59,7 @@ local function GenItem(_typeName, _itemName)
 	outFile:close();
 end
 
-GenBlock("blue_and_white_porcelain_dish");
+GenItem("misc","porcelain_sword");
 
 --GenBlock("idl_glass");
 

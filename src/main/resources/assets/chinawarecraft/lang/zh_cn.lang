@@ -87,6 +87,9 @@ item.cobalt_powder.desc=钴锭打粉
 item.blue_and_white_porcelain_dish_prototype.name=青花瓷盘胚
 item.blue_and_white_porcelain_dish_prototype.desc=未烧制的青花瓷盘
 
+item.porcelain_sword.name=青花瓷剑
+item.porcelain_sword.desc=这剑不会很脆吧
+
 item.xie_geta.name=谢公屐
 item.xie_geta.desc.0=上山模式，赋予%s级跳跃提升\n 右键地面切换模式
 item.xie_geta.desc.1=平地模式，赋予%s级速度\n 右键地面切换模式

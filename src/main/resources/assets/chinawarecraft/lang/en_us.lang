@@ -90,6 +90,9 @@ item.cobalt_powder.desc=Cobalt ingots are powdered.
 item.blue_and_white_porcelain_dish_prototype.name=Blue and white porcelain dish prototype
 item.blue_and_white_porcelain_dish_prototype.desc=Unfired blue and white porcelain dish.
 
+item.porcelain_sword.name=Blue and white porcelain sword
+item.porcelain_sword.desc=Will this sword be fragile?
+
 item.xie_geta.name=Geta of Mr.Xie
 item.xie_geta.desc.0=Uphill mode. Grants Lv.%s Jump Boost.
 item.xie_geta.desc.1=Flat ground mode. Grants Lv.%s Speed.

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.linzishen.chinawarecraft.init.ModCreativeTab;
+import com.linzishen.chinawarecraft.item.weapon.ItemPorcelainSword;
 import net.minecraft.item.Item;
 
 public class ModItems {
@@ -25,6 +26,7 @@ public class ModItems {
 	public static final Item BLUE_AND_WHITE_PORCELAIN_VASES_PROTOTYPE = new ItemBase("blue_and_white_porcelain_vases_prototype").setCreativeTab(ModCreativeTab.CHIPMOD_ITEM);
 	public static final Item COBALT_POWDER = new ItemBase("cobalt_powder").setCreativeTab(ModCreativeTab.CHIPMOD_ITEM);
 	public static final Item BLUE_AND_WHITE_PORCELAIN_DISH_PROTOTYPE = new ItemBase("blue_and_white_porcelain_dish_prototype").setCreativeTab(ModCreativeTab.CHIPMOD_ITEM);
+	public static final Item PORCELAIN_SWORD = new ItemPorcelainSword("porcelain_sword",Item.ToolMaterial.DIAMOND).setCreativeTab(ModCreativeTab.CHIPMOD_ITEM);
 	/*
 	WOOD(0, 59, 2.0F, 0.0F, 15),
     STONE(1, 131, 4.0F, 1.0F, 5),

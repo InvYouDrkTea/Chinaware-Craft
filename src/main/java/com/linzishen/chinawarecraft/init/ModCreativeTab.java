@@ -16,7 +16,7 @@ public class ModCreativeTab {
         @SideOnly(Side.CLIENT)
         public ItemStack getTabIconItem()
         {
-            return new ItemStack(ModItems.WHITE_VASES_PROTOTYPE);
+            return new ItemStack(ModItems.PORCELAIN_SWORD);
         }
     };
     public static final CreativeTabs CHIPMOD_BLOCK = new CreativeTabs(CreativeTabs.getNextID(), "chinawarecraftBlockTab")
