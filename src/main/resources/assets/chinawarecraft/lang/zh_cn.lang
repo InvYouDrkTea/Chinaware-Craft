@@ -10,7 +10,7 @@ configgui.idealland.category.Menu0.GeneralConf=综合选项
 idealland.conf.general.welcome=欢迎词
 
 # Enchantments
-enchantment.chinawarecraft.chinawarecraft_enchant=瓷器工艺
+enchantment.porcelain_prick_wounds=碎瓷片扎伤
 
 idealland.moroon_incoming_herald=[IDL][注意] 摩隆密切关注着你的战斗。
 idealland.msg.notice_meter_report=[IDL]摩隆注意度： %d, 入侵准备: %d/%d, 测量误差:%d
@@ -18,7 +18,6 @@ idealland.msg.notice_meter_report=[IDL]摩隆注意度： %d, 入侵准备: %d/%
 # Potions
 idealland.potion.deadly=致死
 idealland.potion.zen_heart=功德无量
-
 
 entity.moroon_tainter.name=摩隆 拓荒者
 
@@ -89,6 +88,9 @@ item.blue_and_white_porcelain_dish_prototype.desc=未烧制的青花瓷盘
 
 item.porcelain_sword.name=青花瓷剑
 item.porcelain_sword.desc=这剑不会很脆吧
+
+item.porcelain_sword_prototype.name=瓷剑胚
+item.porcelain_sword_prototype.desc=未经烧制的瓷剑
 
 item.xie_geta.name=谢公屐
 item.xie_geta.desc.0=上山模式，赋予%s级跳跃提升\n 右键地面切换模式

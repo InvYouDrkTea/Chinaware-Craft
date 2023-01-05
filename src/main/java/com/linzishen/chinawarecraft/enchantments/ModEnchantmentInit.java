@@ -35,7 +35,7 @@ public class ModEnchantmentInit {
 //    public static final ModEnchantmentBase ANTI_VANILLA = new ModEnchantmentBase("idlframewok.anti_vanilla", Enchantment.Rarity.UNCOMMON, EnumEnchantmentType.WEAPON,  mainHand)
 //            .setMaxLevel(10).setValue(0.3f, 0.3f);
 
-    public static final ModEnchantmentBase ENCHANT_CHINAWARECRAFT = new ModEnchantmentBase("chinawarecraft.chinawarecraft_enchant", Enchantment.Rarity.UNCOMMON, EnumEnchantmentType.WEAPON,  mainHand);
+    public static final ModEnchantmentBase PORCELAIN_PRICK_WOUNDS = new ModEnchantmentBase("porcelain_prick_wounds", Enchantment.Rarity.COMMON, EnumEnchantmentType.WEAPON,  mainHand);
 
     //Conflict groups
     public static final Enchantment[] WEAPON_DAMAGE_CONFLICT_GROUP = new Enchantment[]

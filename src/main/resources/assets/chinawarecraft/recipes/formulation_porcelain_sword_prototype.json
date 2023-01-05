@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "101",
+    "101",
+    "101"
+  ],
+
+  "key":
+  {
+    "0":
+    {
+      "item": "chinawarecraft:white_porcelain_clay_ball"
+    },
+    "1":
+    {
+      "item": "chinawarecraft:cobalt_powder"
+    }
+  },
+
+  "result":
+  {
+    "item": "chinawarecraft:porcelain_sword_prototype",
+    "count": 1
+  }
+}

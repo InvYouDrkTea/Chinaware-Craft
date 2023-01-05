@@ -28,6 +28,7 @@ public class ModRecipes {
 		GameRegistry.addSmelting(new ItemStack(ModItems.CELADON_DISH_PROTOTYPE),new ItemStack(ModBlocks.CELADON_DISH,1),1f);
 		GameRegistry.addSmelting(new ItemStack(ModItems.BLUE_AND_WHITE_PORCELAIN_VASES_PROTOTYPE),new ItemStack(ModBlocks.BLUE_AND_WHITE_PORCELAIN_VASES,1),1f);
 		GameRegistry.addSmelting(new ItemStack(ModItems.BLUE_AND_WHITE_PORCELAIN_DISH_PROTOTYPE),new ItemStack(ModBlocks.BLUE_AND_WHITE_PORCELAIN_DISH,1),1f);
+		GameRegistry.addSmelting(new ItemStack(ModItems.PORCELAIN_SWORD_PROTOTYPE),new ItemStack(ModItems.PORCELAIN_SWORD,1),1f);
 	}
 	
 	@SubscribeEvent

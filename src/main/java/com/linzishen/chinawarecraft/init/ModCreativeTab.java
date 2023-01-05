@@ -24,7 +24,7 @@ public class ModCreativeTab {
         @SideOnly(Side.CLIENT)
         public ItemStack getTabIconItem()
         {
-            return new ItemStack(ModBlocks.WHITE_VASES);
+            return new ItemStack(ModBlocks.BLUE_AND_WHITE_PORCELAIN_VASES);
         }
     };
 }

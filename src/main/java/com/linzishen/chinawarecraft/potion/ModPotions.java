@@ -5,6 +5,9 @@ import java.util.List;
 import javax.annotation.Nullable;
 
 import com.linzishen.chinawarecraft.IdlFramework;
+import com.linzishen.chinawarecraft.item.potions.PotionBase;
+import com.linzishen.chinawarecraft.potion.buff.BasePotion;
+import com.linzishen.chinawarecraft.potion.buff.PotionZenHeart;
 import com.linzishen.chinawarecraft.util.Reference;
 import net.minecraft.potion.Potion;
 import net.minecraft.util.ResourceLocation;

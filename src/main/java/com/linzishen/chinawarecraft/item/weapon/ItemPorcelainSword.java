@@ -1,6 +1,7 @@
 package com.linzishen.chinawarecraft.item.weapon;
 
 import com.linzishen.chinawarecraft.item.ItemSwordBase;
+import com.linzishen.chinawarecraft.potion.ModPotions;
 import com.linzishen.chinawarecraft.util.CommonFunctions;
 import com.linzishen.chinawarecraft.util.EntityUtil;
 import net.minecraft.entity.EntityLivingBase;
@@ -28,7 +29,10 @@ public class ItemPorcelainSword extends ItemSwordBase {
             if (attacker != null && attacker.getHeldItemMainhand().getItem() == this)
             {
                 /*写效果*/
-                EntityUtil.ApplyBuff(hurtOne, MobEffects.POISON,0,10f);
+                if (attacker.getRNG().nextFloat() < 0.2f)
+                {
+                    event.setAmount(event.getAmount() * 1.5f);
+                }
             }
         }
     }

@@ -11,7 +11,7 @@ configgui.idealland.category.Menu0.GeneralConf=General Config
 idealland.conf.general.welcome=Welcome Message Key
 
 #Enchantments
-enchantment.chinawarecraft.chinawarecraft_enchant=Chinaware Craft
+enchantment.porcelain_prick_wounds=Porcelain chip prick wounds
 
 #Messages
 idealland.moroon_incoming_herald=[IDL][Warn] The Moroon are interested in your fights.
@@ -20,7 +20,6 @@ idealland.msg.notice_meter_report=[IDL] Moroon notice value: %d, invasion: %d/%d
 #Potions
 idealland.potion.deadly=Deadly
 idealland.potion.zen_heart=Countless Virtue
-
 
 #Entities
 entity.moroon_tainter.name=Moroon Pathfinder
@@ -92,6 +91,9 @@ item.blue_and_white_porcelain_dish_prototype.desc=Unfired blue and white porcela
 
 item.porcelain_sword.name=Blue and white porcelain sword
 item.porcelain_sword.desc=Will this sword be fragile?
+
+item.porcelain_sword_prototype.name=Porcelain sword prototype
+item.porcelain_sword_prototype.desc=Unfired porcelain sword.
 
 item.xie_geta.name=Geta of Mr.Xie
 item.xie_geta.desc.0=Uphill mode. Grants Lv.%s Jump Boost.

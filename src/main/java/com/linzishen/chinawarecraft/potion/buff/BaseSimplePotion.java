@@ -13,7 +13,7 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
 public class BaseSimplePotion extends Potion {
-    protected static final ResourceLocation resource = new ResourceLocation("idlframewok","textures/misc/potions.png");
+    protected static final ResourceLocation resource = new ResourceLocation("chinawarecraft","textures/misc/potions.png");
     protected final int iconIndex;
 
 //    if (!this.world.isRemote)
@@ -25,7 +25,7 @@ public class BaseSimplePotion extends Potion {
     public BaseSimplePotion(boolean isBadEffectIn, int liquidColorIn, String name, int icon) {
         super(isBadEffectIn, liquidColorIn);
         setRegistryName(new ResourceLocation(Reference.MOD_ID, name));
-        setPotionName("idlframewok.potion." + name);
+        setPotionName("chinawarecraft.potion." + name);
         iconIndex = icon;
     }
 
