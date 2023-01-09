@@ -39,6 +39,7 @@ tile.celadon_vases.name=Celadon vase
 tile.celadon_dish.name=Celadon dish
 tile.blue_and_white_porcelain_vases.name=Blue and white porcelain vase
 tile.blue_and_white_porcelain_dish.name=Blue and white porcelain dish
+tile.porcelain_carving_beijing_rabbit.name=Porcelain carving-BeiJing rabbit
 
 #Items
 idealland.food.shared.xp_desc=Grants XP: %d
